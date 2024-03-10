@@ -1,8 +1,6 @@
 # DB-Assignment
 1. The relationship is likely established through the "category_id" attribute in the "Product" entity.
 
-Here's a breakdown of the relationship:
-
 Product_Category entity:
 
 Fields:
